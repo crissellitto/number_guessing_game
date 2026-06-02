@@ -1,10 +1,13 @@
-# number_guessing_game
+# Number Guessing Game
 
-secret = 7
+A simple Python game.
 
-guess = int(input("Guess a number between 1 and 10: "))
+## How it works
 
-if guess == secret:
-    print("You win!")
-else:
-    print("Wrong guess!")
+The player guesses a number between 1 and 10.
+
+If the guess is correct, the player wins.
+
+## Language
+
+Python
